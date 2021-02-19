@@ -1,0 +1,24 @@
+* {
+    background-color: #fefefe;
+    font-family: 'Nunito', sans-serif;
+    color: #495057 !important;
+}
+
+.profile {
+    width: 400px;
+}
+
+.text-justify {
+    text-align: justify;
+  }
+
+  .title {
+      color: #ced4da !important;  
+  }
+
+  .email {
+    text-decoration:none;
+    color: #ced4da !important;  
+  }
+
+  
